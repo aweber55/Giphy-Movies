@@ -1,0 +1,65 @@
+p {
+    color: rgb(201, 204, 30);
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-shadow: 1px 1px 1px silver;
+}
+p1 {
+    color: blue;
+    
+    font-family: 'Bree Serif', serif;
+}
+.jumbotron {
+    
+    background:  url("../images/popcorn.jpg");
+    opacity: .7;
+    background-position: center center;
+    
+}
+
+body { 
+    
+    background-image: url("../images/movie-seats.jpeg");
+    
+   background-size:auto center;
+  }
+  h1{
+      color:blue;
+      font-family: 'Bree Serif', serif;
+      font-weight: 3px;
+  }
+  .image {
+      display: flex;
+      flex-wrap: wrap;
+      
+      margin: 0 auto;
+      padding: 10px;
+      height: auto;
+      /* border: 2px solid rgb(119, 119, 4); */
+     
+  }
+ label {
+      color: red;
+  }
+  label kbd {
+      background-color: cornflowerblue;
+      border-radius: 20%;
+  }
+  .fa-search {
+      color: red;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-weight: 100px;
+  }
+ #run-clear {
+     background-color: blueviolet;
+     
+ }
+ #run-search {
+     background-color: cornflowerblue;
+ }
+ .img-responsive {
+     display: inline-block;
+     overflow: scroll;
+ }
+ 
