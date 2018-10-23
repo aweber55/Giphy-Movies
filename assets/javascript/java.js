@@ -45,7 +45,7 @@ $(document).ready(function () {
         //    return false;
 
         })}
-
+// search function
     function searchGame(event) {
         var action = $(this).attr("data-name");
         var queryURL = "https://api.giphy.com/v1/gifs/search?q=" +
