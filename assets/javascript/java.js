@@ -2,7 +2,7 @@ $(document).ready(function () {
 
 
     
-    var topics = ["SpaceBalls", "Rocky", "Avengers", "Zombieland", "Jurrasic Park", 
+    var topics = ["SpaceBalls", "Rocky", "Rocky 2", "Avengers", "Zombieland", "Jurrasic Park", 
     "Forrest Gump", "The Matrix", "Indiana Jones", "The Princess Bride", "Batman Begins"];
 
 
